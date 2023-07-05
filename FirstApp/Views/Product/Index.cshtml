@@ -1,0 +1,24 @@
+﻿@using FirstApp.Models;
+@{
+    List<Product> products = ViewBag.products;
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <ol>
+        @foreach(var item in products)
+        {
+            <li>@item.ProductName - @item.Price - @item.Category</li>
+        }
+    </ol>
+</body>
+</html>

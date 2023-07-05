@@ -1,0 +1,22 @@
+﻿@using FirstApp.Models;
+
+@{
+    var product = ViewBag.product;
+}
+
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+</head>
+<body>
+    <h1 style=" color: blue;">@product.ProductName</h1>
+    <h3>Price: @product.Price</h3>
+    <h3>Product category: @product.Category</h3>
+    <h3>Product id: @product.ProductId</h3>
+</body>
+</html>

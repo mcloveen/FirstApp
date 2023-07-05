@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{891C8845-4E07-4ABA-BB78-C18BD0166B0C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstApp/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="FirstApp/Controllers/HomeController.cs" Line="9" Column="9" />
+      <File FileName="FirstApp/Controllers/ProductController.cs" Line="32" Column="9" />
+      <File FileName="FirstApp/Models/Product.cs" Line="13" Column="9" />
+      <File FileName="FirstApp/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="FirstApp/Views/Product/Detail.cshtml" Line="1" Column="24" />
+      <File FileName="FirstApp/Views/Product/Index.cshtml" Line="13" Column="25" />
+      <File FileName="FirstApp/Views/Shared/Error.cshtml" Line="3" Column="1" />
+      <File FileName="FirstApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="FirstApp/Program.cs" Line="20" Column="1" />
+      <File FileName="FirstApp/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstApp" expanded="True">
+            <Node name="FirstApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FirstApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
